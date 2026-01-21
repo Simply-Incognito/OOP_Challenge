@@ -1,0 +1,14 @@
+C:\Users\HomePC\Desktop\OOP_Challenge\bin\Debug\net10.0\OOP_Challenge.exe
+C:\Users\HomePC\Desktop\OOP_Challenge\bin\Debug\net10.0\OOP_Challenge.deps.json
+C:\Users\HomePC\Desktop\OOP_Challenge\bin\Debug\net10.0\OOP_Challenge.runtimeconfig.json
+C:\Users\HomePC\Desktop\OOP_Challenge\bin\Debug\net10.0\OOP_Challenge.dll
+C:\Users\HomePC\Desktop\OOP_Challenge\bin\Debug\net10.0\OOP_Challenge.pdb
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.AssemblyInfoInputs.cache
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.AssemblyInfo.cs
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.dll
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\refint\OOP_Challenge.dll
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.pdb
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.genruntimeconfig.cache
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\ref\OOP_Challenge.dll
