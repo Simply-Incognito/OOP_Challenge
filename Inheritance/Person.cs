@@ -5,7 +5,14 @@ namespace Inheritance
     {
         // Properties
         public string FullName { get; set; } = string.Empty;
-        public byte Age { get; set; }
+        public int Age { get; set; }
+
+        // ctor
+        public Person(string fullname, int age)
+        {
+            FullName = fullname;
+            Age = age;
+        }
 
         // Methods
         public void Introduce()

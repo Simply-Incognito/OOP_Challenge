@@ -5,6 +5,13 @@ namespace Inheritance
         // Props
         public string Subject { get; set; } = string.Empty;
 
+        // ctor
+        public Teacher(string fullname, int age, string subject)
+            : base(fullname, age)
+        {
+            Subject = subject;
+        }
+
         // Methods
         public void Teach()
         {

@@ -12,3 +12,4 @@ C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\refint\OOP_Challenge.dll
 C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.pdb
 C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.genruntimeconfig.cache
 C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\ref\OOP_Challenge.dll
+C:\Users\HomePC\Desktop\OOP_Challenge\obj\Debug\net10.0\OOP_Challenge.sourcelink.json
